@@ -1,3 +1,11 @@
+
+
+A solution to the Hacker Rank Backgammon AI task implemented in C++. 
+credits: 
+https://github.com/chanddu
+https://github.com/omar-khader
+
+
 Input Format
 
 The first line of the input is 1 or 2 indicating its either white or black who is playing the game. 26 lines follow. Each line contains 1 or 2 integers ( separated by a single space ) indicating the number of checkers on the point and the type of the checker ( 1 for 1st player's checker and 2 for 2nd player's checker)
