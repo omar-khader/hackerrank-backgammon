@@ -1,6 +1,7 @@
 
 
 A solution to the Hacker Rank Backgammon AI task implemented in C++. 
+task: https://www.hackerrank.com/challenges/backgammon?isFullScreen=true&hr_b=1
 credits: 
 https://github.com/chanddu
 https://github.com/omar-khader
